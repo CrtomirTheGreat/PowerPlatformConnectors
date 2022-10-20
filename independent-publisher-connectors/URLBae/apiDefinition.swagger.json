@@ -1225,7 +1225,7 @@
                   "title": "Error"
                 },
                 "id": {
-                  "type": "integer",
+                  "type": "string",
                   "format": "int32",
                   "description": "The unique identifier.",
                   "title": "ID"
